@@ -86,9 +86,10 @@ body {
 }
 
   .button {
-    /*margin: 10px;*/
+    /*margin: 10px;
     color: teal;
     border: 1px teal solid;
+    */
     border-radius: 5px;
     text-decoration: none;
     width: 100%;
