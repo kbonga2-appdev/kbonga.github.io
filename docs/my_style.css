@@ -100,12 +100,16 @@ body {
   }
 
   .player-card{
+    /*
     border: thin green solid;
+    */
     width: 49%;
   }
 
   .computer-card{
+    /*
     border: thin green solid;
+    */
     width: 49%;
   }
 
